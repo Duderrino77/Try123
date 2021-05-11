@@ -1,1 +1,2 @@
 log "Hello there"
+log "hy 2"
